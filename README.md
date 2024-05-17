@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div align="center">
     <img src="header.png" alt="Alt Text">
 </div>
 
